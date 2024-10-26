@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://icutuuwa.github.io/sitemap_index.icutuuwa
